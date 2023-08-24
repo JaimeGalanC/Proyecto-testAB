@@ -6,4 +6,9 @@ Junto con el departamento de marketing se ha recopilado una lista de hipótesis 
 
 Se trabajó  con datos provenientes de las ventas y las visitas realizadas a la tienda en línea.
 
-Este proyecto fue realizado usando jupyter notebook y python. Se hizó la carga de los datos usando archivos ".csv".
+1. Se hizó la carga de los datos usando archivos ".csv"
+2. Se realizó la priorización de hipótesis
+3. Se realizó un análisis exploratorio de datos
+4. Se realizó una prueba de hipótesis
+
+Este proyecto fue realizado usando jupyter notebook y python.
